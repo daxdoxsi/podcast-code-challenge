@@ -20,7 +20,7 @@
 		padding: 50px;
 		margin: 50px auto;
 		background-color: #ffffff;
-		box-shadow: 10px #666666;
+		box-shadow: 10px 10px 10px #666;
 	} 
     </style>
 </head>
