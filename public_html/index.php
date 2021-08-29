@@ -29,6 +29,15 @@
 	<h1>Podcast Challenge</h1>
 	<form method="post" action="">
 		<fieldset>
+			<legend>Podcast&rsquo;s List</legend>
+			<ul>
+				<li><a href="#">One</a></li>
+				<li><a href="#">Two</a></li>
+				<li><a href="#">Three</a></li>
+				<li><a href="#">Four</a></li>
+				<li><a href="#">Five</a></li>
+			</ul>
+		<fieldset>
 			<legend>Add new podcast URL</legend>
 			<label for="podcast-url">Type here the Podcast URL: </label>
 			<input type="text" name="podcast_url" size="50" id="podcast-url">
