@@ -37,6 +37,7 @@
 				<li><a href="#">Four</a></li>
 				<li><a href="#">Five</a></li>
 			</ul>
+		</fieldset>
 		<fieldset>
 			<legend>Add new podcast URL</legend>
 			<label for="podcast-url">Type here the Podcast URL: </label>
